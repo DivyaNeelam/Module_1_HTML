@@ -22,7 +22,7 @@ A beginner-friendly HTML5 web project designed to promote and manage local commu
 
 1. **Clone or download** this repository:
    ```bash
- https://github.com/DivyaNeelam/Module_1_HTMLt
+        https://github.com/DivyaNeelam/Module_1_HTML.git
    
 2. Open index.html in your web browser—no setup required!
 
